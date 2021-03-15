@@ -1,1 +1,3 @@
 # LibraryManagementSystem
+
+JavaFx automation project
